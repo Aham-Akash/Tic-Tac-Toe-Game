@@ -82,6 +82,8 @@ tic_tac_toe.exe
 Player 1: X
 Player 2: O
 
+<pre>
+
    |   |     
 ---|---|---  
    |   |     
@@ -103,6 +105,7 @@ Player O, enter row and column (0, 1, or 2): 1 1
    | O |     
 ---|---|---  
    |   |     
+</pre>
 
 Player X, enter row and column (0, 1, or 2): 0 1  
 Player O, enter row and column (0, 1, or 2): 2 2  
