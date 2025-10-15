@@ -26,7 +26,7 @@ If all cells are filled and no player has won, the game ends in a draw.
 ---
 
 ## 📁 File Structure
-├── tic_tac_toe.c # Source code of the game
+├── tic_tac_toe.c # Source code of the game  
 └── README.md # Project documentation
 
 ---
@@ -82,31 +82,31 @@ tic_tac_toe.exe
 Player 1: X
 Player 2: O
 
-   |   |   
----|---|---
-   |   |   
----|---|---
-   |   |   
+   |   |     
+---|---|---  
+   |   |     
+---|---|---  
+   |   |     
 
 Player X, enter row and column (0, 1, or 2): 0 0
 
- X |   |   
----|---|---
-   |   |   
----|---|---
-   |   |   
+ X |   |     
+---|---|---  
+   |   |     
+---|---|---  
+   |   |     
 
 Player O, enter row and column (0, 1, or 2): 1 1
 
- X |   |   
----|---|---
-   | O |   
----|---|---
-   |   |   
+ X |   |     
+---|---|---  
+   | O |     
+---|---|---  
+   |   |     
 
-Player X, enter row and column (0, 1, or 2): 0 1
-Player O, enter row and column (0, 1, or 2): 2 2
-Player X, enter row and column (0, 1, or 2): 0 2
+Player X, enter row and column (0, 1, or 2): 0 1  
+Player O, enter row and column (0, 1, or 2): 2 2  
+Player X, enter row and column (0, 1, or 2): 0 2  
 
 🏆 Player X WINS!
 
